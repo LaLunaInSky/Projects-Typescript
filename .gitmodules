@@ -1,0 +1,6 @@
+[submodule "Project-Capputeeno"]
+	path = Project-Capputeeno
+	url = https://github.com/LaLunaInSky/Project-Capputeeno
+[submodule "Project-Lottery"]
+	path = Project-Lottery
+	url = https://github.com/LaLunaInSky/Project-Lottery
